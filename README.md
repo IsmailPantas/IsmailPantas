@@ -1,4 +1,3 @@
-![MasterHead](https://avatars.githubusercontent.com/u/62617373?v=4)
 <h1 align="center">Hi 👋, I'm İsmail Pantaş</h1>
 <h3 align="center">I'am a Software Engineer Student at Firat University</h3>
 
